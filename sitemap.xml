@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiaochengye.github.io/2022/07/28/test/</loc>
+    
+    <lastmod>2022-07-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaochengye.github.io/2021/12/03/Make%20Hexo%20Blog/</loc>
     
     <lastmod>2022-02-05</lastmod>
